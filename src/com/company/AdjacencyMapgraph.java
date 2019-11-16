@@ -36,7 +36,6 @@ public class AdjacencyMapgraph {
 
     public AdjacencyMapgraph kruskal(){
 
-        parent();
         ArrayList<Edge> list = new ArrayList<>();
         AdjacencyMapgraph graph= new AdjacencyMapgraph();
 
